@@ -7,11 +7,11 @@ s.description       = 'Clicktale is an iOS SDK that captures device screen with 
 s.homepage          = 'https://www.clicktale.com/solutions/clicktale-for-apps/'
 s.documentation_url = 'https://clicktaleproducthelp.freshdesk.com/support/login'
 
-s.author            = { 'Clicktale' => 'support@clicktale.com' }
+s.author            = { 'ClicktaleBeta' => 'support@clicktale.com' }
 s.license           = { :type => 'Commercial', :file => 'LICENSE' }
 
 s.platform          = :ios
-s.source            = { :http => 'https://github.com/Clicktale/ClicktaleBeta/raw/master/Clicktale.zip' }
+s.source            = { :http => 'https://github.com/Clicktale/ClicktaleBeta/raw/master/ClicktaleBeta.zip' }
 
 s.ios.deployment_target = '9.0'
 s.ios.vendored_frameworks = 'Clicktale.framework'
